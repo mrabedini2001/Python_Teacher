@@ -1,1 +1,1 @@
-![alt text](https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2020/01/pylogo-1200.png?w=780&h=408&crop=1)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1024px-Python_logo_and_wordmark.svg.png)
